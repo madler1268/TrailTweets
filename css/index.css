@@ -1,0 +1,14 @@
+.img-block {
+	display:inline-block;
+}
+
+.img-block-header {
+	display:block;
+	padding: 10px;
+}
+
+.img-block-text{
+	background:#4C6663;
+	padding:15px 30px 15px 30px;
+	width:100%;
+}
