@@ -1,4 +1,6 @@
 .img-block {
+	width:100%;
+	position:relative;
 	display:inline-block;
 }
 
@@ -11,4 +13,8 @@
 	background:#4C6663;
 	padding:15px 30px 15px 30px;
 	width:100%;
+}
+
+.img-block-body{
+	display:inline-block;
 }
