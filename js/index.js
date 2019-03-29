@@ -44,11 +44,11 @@ jQuery(document).ready(function($){
 
 	    /* Gallery One pop up
 	    -----------------------------------------*/
-	    $('.gallery-one').magnificPopup({
-	        delegate: 'a', // child items selector, by clicking on it popup will open
-	        type: 'image',
-	        gallery:{enabled:true}
-	    });
+	    // $('.gallery-one').magnificPopup({
+	    //     delegate: 'a', // child items selector, by clicking on it popup will open
+	    //     type: 'image',
+	    //     gallery:{enabled:true}
+	    // });
 
 		/* Gallery Two pop up
 	    -----------------------------------------*/
