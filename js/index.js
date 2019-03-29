@@ -91,7 +91,7 @@ jQuery(document).ready(function($){
 
 
 	    $(".img-block-text").click(function(){
-	        $(this.parentElement.parentElement.lastElementChild).toggle(
+	        $(this.parentElement.parentElement.lastElementChild).toggle({start:
 	        function(){
 	        	var imgBoxHeight = $(this.parentElement.parentElement.lastElementChild).height();
 	        	var galHeight = $("tm-img-gallery-container").height();
@@ -101,7 +101,7 @@ jQuery(document).ready(function($){
 	        		$("tm-img-gallery-container").height(galHeight + imgBoxHeight);
 	        	}
 	        	adjustHeightOfPage(1);
-	        });
+	        }});
 	    });
 	});
 
