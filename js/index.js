@@ -141,6 +141,36 @@ jQuery(document).ready(function($){
 
 	// DOM is ready
 	$(function() {
-	    loadGoogleMap(); // Google Map
+		loadGoogleMap(); // Google Map
+		$('#submitButton').click(function() {
+			$('.secondPic').remove();
+			$('.thirdPic').remove();
+			$('.fourthPic').remove();
+			$('.seventhPic').remove();
+		})
+
+		$('#drop').change(function() {
+			if ($(this).val() == 'recent') {
+				$('.secondPic').insertAfter('.fourthPic');
+				$('.fourthPic').insertAfter('.sixthPic');
+				$('.seventhPic').insertAfter('.firstPic');
+				$('.eleventhPic').insertAfter('.secondPic');
+				$('.ninthPic').insertAfter('.thirdPic');
+			}
+			if ($(this).val() == 'top') {
+				$('.fourthPic').insertAfter('.secondPic');
+				$('.sixthPic').insertAfter('.fourthPic');
+				$('.firstPic').insertAfter('.eleventhPic');
+				$('.secondPic').insertAfter('.eleventhPic');
+				$('.thirdPic').insertAfter('.ninthPic');
+			}
+			if ($(this).val() == 'oldest') {
+				$('.fifthPic').insertAfter('.thirdPic');
+				$('.seventhPic').insertAfter('.fifthPic');
+				$('.secondPic').insertAfter('.firstPic');
+				$('.thirdPic').insertAfter('.ninthPic');
+				$('.fourthPic').insertAfter('.tenthPic');
+			}
+		}); // Google Map
 	});
 });
