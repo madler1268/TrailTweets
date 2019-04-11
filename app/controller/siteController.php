@@ -15,21 +15,10 @@ class SiteController
     public function route($action)
     {
         switch ($action) {
-            case 'home':
-                $this->home();
+            case 'before_signin':
+                $this->before_signin();
                 break;
-            case 'timeline':
-                $this->timeline();
-                break;
-            case 'stories':
-                $this->stories();
-                break;
-            case 'forum':
-                $this->forum();
-                break;
-            case 'login':
-                $this->login();
-                break;
+
             case 'loginProcess':
                 if (isset($_POST['login'])) {
                     $user = $_POST['user'];
@@ -39,8 +28,8 @@ class SiteController
                     $this->signup();
                 }
                 break;
-            case 'signupProcess':
-    				    $this->signupProcess();
+            case 'home':
+    				    $this->home();
                 break;
             case 'logout':
                 $this->logout();
@@ -111,49 +100,20 @@ class SiteController
 	 }
 
     //Brings the user to the home page
+    public function before_signin()
+    {
+        $pageTitle = 'Home - Login';
+        // include_once SYSTEM_PATH . '/view/header.tpl';
+        include_once SYSTEM_PATH . '/view/login.tpl';
+        // include_once SYSTEM_PATH . '/view/footer.tpl';
+    }
+
     public function home()
     {
-        $pageTitle = 'Home';
-        include_once SYSTEM_PATH . '/view/header.tpl';
-        include_once SYSTEM_PATH . '/view/home.tpl';
-        include_once SYSTEM_PATH . '/view/footer.tpl';
+        $pageTitle = 'Home - main';
+        // include_once SYSTEM_PATH . '/view/header.tpl';
+        include_once SYSTEM_PATH . '/view/index.tpl';
+        // include_once SYSTEM_PATH . '/view/footer.tpl';
     }
-    public function timeline()
-    {
-        $pageTitle = 'Timeline';
-        include_once SYSTEM_PATH . '/view/header.tpl';
-        include_once SYSTEM_PATH . '/view/timeline.tpl';
-        include_once SYSTEM_PATH . '/view/footer.tpl';
-    }
-    public function stories()
-    {
-        $pageTitle = 'Stories';
-        include_once SYSTEM_PATH . '/view/header.tpl';
-        include_once SYSTEM_PATH . '/view/stories.tpl';
-        include_once SYSTEM_PATH . '/view/footer.tpl';
-    }
-    public function forum()
-    {
-        $pageTitle = 'Forum';
-        $topics= Topic::getTopics();
-        include_once SYSTEM_PATH . '/view/header.tpl';
-        include_once SYSTEM_PATH . '/view/forum.tpl';
-        include_once SYSTEM_PATH . '/view/footer.tpl';
-    }
-    // Brings the user to the login page
-    public function login()
-    {
-        $pageTitle = 'Login';
-        include_once SYSTEM_PATH . '/view/header.tpl';
-        include_once SYSTEM_PATH . '/view/login.tpl';
-        include_once SYSTEM_PATH . '/view/footer.tpl';
-    }
-    //Logs the user out and sends them to hte unregistered home page
-    public function logout()
-    {
-        unset($_SESSION['username']);
-        session_destroy();
-        header('Location: ' . BASE_URL);
-        exit(); // sends to home page
-    }
+
 }

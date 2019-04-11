@@ -4,6 +4,14 @@ RewriteEngine on
 
 # ErrorDocument 404 /error.php
 
+
+
+
+# Trail tweets navigation
+RewriteRule ^$ app/controller/siteController.php?action=before_signin [QSA,L]
+RewriteRule ^home/?$ app/controller/siteController.php?action=home [QSA,L]
+
+
 # Site
 #RewriteRule ^$ app/controller/siteController.php?action=home_unreg [QSA,L]
 #RewriteRule ^loggedin/?$ app/controller/siteController.php?action=home [QSA,L]
@@ -12,22 +20,22 @@ RewriteEngine on
 #RewriteRule ^login/process/?$ app/controller/siteController.php?action=loginProcess [QSA,L]
 #RewriteRule ^myfamily/?$ app/controller/siteController.php?action=myfamily [QSA,L]
 
-#New for Project 4
-RewriteRule ^$ app/controller/siteController.php?action=home [QSA,L]
-RewriteRule ^logout/?$ app/controller/siteController.php?action=logout [QSA,L]
-RewriteRule ^login/?$ app/controller/siteController.php?action=login [QSA,L]
-RewriteRule ^login/process/?$ app/controller/siteController.php?action=loginProcess [QSA,L]
-RewriteRule ^timeline/?$ app/controller/siteController.php?action=timeline [QSA,L]
-RewriteRule ^stories/?$ app/controller/siteController.php?action=stories [QSA,L]
-RewriteRule ^forum/?$ app/controller/siteController.php?action=forum [QSA,L]
-RewriteRule ^signup/?$ app/controller/siteController.php?action=signupProcess [QSA,L]
+# #New for Project 4
+#
+# RewriteRule ^logout/?$ app/controller/siteController.php?action=logout [QSA,L]
+# RewriteRule ^login/?$ app/controller/siteController.php?action=login [QSA,L]
+# RewriteRule ^login/process/?$ app/controller/siteController.php?action=loginProcess [QSA,L]
+# RewriteRule ^timeline/?$ app/controller/siteController.php?action=timeline [QSA,L]
+# RewriteRule ^stories/?$ app/controller/siteController.php?action=stories [QSA,L]
+# RewriteRule ^forum/?$ app/controller/siteController.php?action=forum [QSA,L]
+# RewriteRule ^signup/?$ app/controller/siteController.php?action=signupProcess [QSA,L]
 
 #topic
-
-RewriteRule ^topic/new/?$ app/controller/topicController.php?action=newTopic [QSA,L]
-RewriteRule ^topic/?$ app/controller/topicController.php?action=topic [QSA,L]
-RewriteRule ^topic/view/(\d+)/?$ app/controller/topicController.php?action=view&topic_id=$1 [QSA,L]
-RewriteRule ^topic/newpost/(\d+)/?$ app/controller/topicController.php?action=newPost&topic_id=$1 [QSA,L]
+#
+# RewriteRule ^topic/new/?$ app/controller/topicController.php?action=newTopic [QSA,L]
+# RewriteRule ^topic/?$ app/controller/topicController.php?action=topic [QSA,L]
+# RewriteRule ^topic/view/(\d+)/?$ app/controller/topicController.php?action=view&topic_id=$1 [QSA,L]
+# RewriteRule ^topic/newpost/(\d+)/?$ app/controller/topicController.php?action=newPost&topic_id=$1 [QSA,L]
 
 # Member
 
