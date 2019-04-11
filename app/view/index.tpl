@@ -299,8 +299,9 @@ http://www.tooplate.com/view/2086-multi-color
 
                                     <div class="tm-img-gallery-info-container">
                                         <h2 class="tm-text-title tm-gallery-title"><span class="tm-white">Hottest Searches</span></h2>
-                                        <p class="tm-text"><span class="tm-white">See the hottest topics that everyone is talking about!</span>
+                                        <p class="tm-text"><span class="tm-white">View tweets based on tags and popularity!</span>
                                         </p>
+                                        <h3 class="tm-text-title tm-gallery-title"><span class="tm-white"><b>Search by tag:</b></span></h3>
                                         <input type="text" style="width: 60%;"/>
                                         <input type="submit" id="submitButton" style="position: relative; left: 10%; bottom: 10%;"/>
                                     </div>
@@ -436,103 +437,13 @@ http://www.tooplate.com/view/2086-multi-color
                 <!-- Page 3 Gallery Three -->
                 <li>
                     <div class="cd-full-width">
-                      <h1 align="center" style="position: relative; bottom: 37%;"> MAP </h1>
+
                       <br/>
-                      <img src="img/hikingMap.JPG"/ style="position: relative; bottom: 6%;">
+                      <h1> Statistics based on twitter data received </h1>
+                      <img src="<?= BASE_URL ?>/public/img/statesgraph.JPG"/ style="position: relative; bottom: 6%;">
                         <div class="container-fluid js-tm-page-content" data-page-no="3">
 
-                          <!--
-                            <div class="tm-img-gallery-container">
-                                <div class="tm-img-gallery gallery-three"> -->
-                                <!-- Gallery Two pop up connected with JS code below -->
-                               <!--
-                                    <div class="tm-img-gallery-info-container">
-                                        <h2 class="tm-text-title tm-gallery-title"><span class="tm-white">Third Multi Gallery</span></h2>
-                                        <p class="tm-text"><span class="tm-white">Donec dapibus dui sed nisi fermentum, a sollicitudin lorem fringilla. Integer nec pharetra turpis, eu sagittis ipsum. Cras dignissim lacus dolor.</span>
-                                        </p>
-                                    </div>
-                                    <div class="grid-item">
-                                        <figure class="effect-bubba">
-                                            <img src="img/tm-img-01-tn.jpg" alt="Image" class="img-fluid tm-img">
-                                            <figcaption>
-                                                <h2 class="tm-figure-title">Picture <span>One</span></h2>
-                                                <p class="tm-figure-description">Suspendisse id placerat risus. Mauris quis luctus risus.</p>
-                                                <a href="img/tm-img-01.jpg">View more</a>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                    <div class="grid-item">
-                                        <figure class="effect-bubba">
-                                            <img src="img/tm-img-06-tn.jpg" alt="Image" class="img-fluid tm-img">
-                                            <figcaption>
-                                                <h2 class="tm-figure-title">Picture <span>Two</span></h2>
-                                                <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
-                                                <a href="img/tm-img-06.jpg">View more</a>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                    <div class="grid-item">
-                                        <figure class="effect-bubba">
-                                            <img src="img/tm-img-13-tn.jpg" alt="Image" class="img-fluid tm-img">
-                                            <figcaption>
-                                                <h2 class="tm-figure-title">Picture <span>Three</span></h2>
-                                                <p class="tm-figure-description">Suspendisse id placerat risus. Mauris quis luctus risus.</p>
-                                                <a href="img/tm-img-13.jpg">View more</a>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                    <div class="grid-item">
-                                        <figure class="effect-bubba">
-                                            <img src="img/tm-img-12-tn.jpg" alt="Image" class="img-fluid tm-img">
-                                            <figcaption>
-                                                <h2 class="tm-figure-title">Picture <span>Four</span></h2>
-                                                <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
-                                                <a href="img/tm-img-12.jpg">View more</a>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                    <div class="grid-item">
-                                        <figure class="effect-bubba">
-                                            <img src="img/tm-img-05-tn.jpg" alt="Image" class="img-fluid tm-img">
-                                            <figcaption>
-                                                <h2 class="tm-figure-title">Picture <span>Five</span></h2>
-                                                <p class="tm-figure-description">Suspendisse id placerat risus. Mauris quis luctus risus.</p>
-                                                <a href="img/tm-img-05.jpg">View more</a>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                    <div class="grid-item">
-                                        <figure class="effect-bubba">
-                                            <img src="img/tm-img-09-tn.jpg" alt="Image" class="img-fluid tm-img">
-                                            <figcaption>
-                                                <h2 class="tm-figure-title">Picture <span>Six</span></h2>
-                                                <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
-                                                <a href="img/tm-img-09.jpg">View more</a>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                    <div class="grid-item">
-                                        <figure class="effect-bubba">
-                                            <img src="img/tm-img-11-tn.jpg" alt="Image" class="img-fluid tm-img">
-                                            <figcaption>
-                                                <h2 class="tm-figure-title">Picture <span>Seven</span></h2>
-                                                <p class="tm-figure-description">Suspendisse id placerat risus. Mauris quis luctus risus.</p>
-                                                <a href="img/tm-img-11.jpg">View more</a>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                    <div class="grid-item">
-                                        <figure class="effect-bubba">
-                                            <img src="img/tm-img-14-tn.jpg" alt="Image" class="img-fluid tm-img">
-                                            <figcaption>
-                                                <h2 class="tm-figure-title">Picture <span>Eight</span></h2>
-                                                <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
-                                                <a href="img/tm-img-14.jpg">View more</a>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div> --> <!-- .tm-img-gallery-container -->
+
                         </div>
                     </div>
                 </li>
@@ -546,7 +457,7 @@ http://www.tooplate.com/view/2086-multi-color
                                     <div class="tm-flex">
                                         <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-textbox-padding">
                                             <h2 class="tm-text-title">About our team</h2>
-                                            <p class="tm-text">Quisque efficitur dui id turpis cursus, quis faucibus nulla malesuada. Nulla consectetur eget quam id pulvinar. Nulla facilisi. Curabitur rhoncus lacinia tincidunt. Etiam velit dui, rutrum vel finibus ac, commodo at mauris. Donec vitae diam ac tellus consectetur interdum eu non odio.</p>
+                                            <p class="tm-text">This team was created in order to captivate twitter data that was organized by our client. This data was used by our team to provide a visualization for users who wish to visit or learn more about the Appalachian Trail.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -556,12 +467,12 @@ http://www.tooplate.com/view/2086-multi-color
                                 <div class="col-xs-12">
                                     <div class="tm-flex">
                                         <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
-                                            <h2 class="tm-text-title">Nulla vitae magna</h2>
-                                            <p class="tm-text">Aliquam porttitor tortor at nisi fermentum, ac porta arcu vulputate. Nunc lobortis ipsum sapien, non ultrices odio tempus varius. In posuere dolor non sagittis ultrices.</p>
+                                            <h2 class="tm-text-title">Our Goal</h2>
+                                            <p class="tm-text">The goal for this website is to provide statistical and concrete information about the trail and what tweeters tweet about it.</p>
                                         </div>
                                         <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
-                                            <h2 class="tm-text-title">Vivamus aliquam turpis</h2>
-                                            <p class="tm-text">Integer quis leo pretium, cursus nisl non, placerat magna. Sed efficitur massa id magna eleifend tristique. Duis vitae turpis dapibus, facilisis magna ut, pretium metus.</p>
+                                            <h2 class="tm-text-title">Functionality</h2>
+                                            <p class="tm-text">Provide the user with a means of searching twitter data based on photos and provide substantial data.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -571,16 +482,16 @@ http://www.tooplate.com/view/2086-multi-color
                                 <div class="col-xs-12">
                                     <div class="tm-flex">
                                         <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
-                                            <h2 class="tm-text-title">Curabitur at sem</h2>
-                                            <p class="tm-text">Curabitur ac bibendum augue, a convallis mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices placerat arcu.</p>
+                                            <h2 class="tm-text-title">Anthony</h2>
+                                            <p class="tm-text">Tweet lover and Twitter user. Enjoys using data to find patterns in society.</p>
                                         </div>
                                         <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
-                                            <h2 class="tm-text-title">Aliquam laoreet velit</h2>
-                                            <p class="tm-text">Proin sagittis mauris dolor, vel efficitur lectus dictum nec. Sed ultrices placerat arcu, id malesuada metus cursus suscipit. Donex quis consectetur ligula. Thank you.</p>
+                                            <h2 class="tm-text-title">Max</h2>
+                                            <p class="tm-text">Loves data more than anything. Nick named the "Database".</p>
                                         </div>
                                         <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
-                                            <h2 class="tm-text-title">Suspendisse facilisis</h2>
-                                            <p class="tm-text">Sed ultrices placerat arcu, id malesuada metus cursus suscipit. Donex quis consectetur ligula. Proin accumsan eros id nisi porttitor, a facilisis quam cursus.</p>
+                                            <h2 class="tm-text-title">Aarjab</h2>
+                                            <p class="tm-text">Enjoys playing outside. Has been on the Appalachian Trail never times.</p>
                                         </div>
                                     </div>
                                 </div>
