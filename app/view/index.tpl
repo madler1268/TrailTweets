@@ -487,7 +487,7 @@ http://www.tooplate.com/view/2086-multi-color
                                         </div>
                                         <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
                                             <h2 class="tm-text-title">Max</h2>
-                                            <p class="tm-text">Loves data more than anything. Nick named the "Database".</p>
+                                            <p class="tm-text">Loves data more than anything. Nick-named "The"Database".</p>
                                         </div>
                                         <div class="tm-bg-white-translucent text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding">
                                             <h2 class="tm-text-title">Aarjab</h2>
