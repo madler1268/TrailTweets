@@ -8,6 +8,6 @@ define('BASE_URL','http://localhost/trailtweets'); # your base URL
 define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_HOST', 'localhost');
-define('DB_DATABASE', 'tweets');
+define('DB_DATABASE', 'trailtweets');
 
 ?>

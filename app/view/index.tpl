@@ -60,7 +60,7 @@ http://www.tooplate.com/view/2086-multi-color
                                     <a class="nav-link" href="#0" data-no="2">Search</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#0" data-no="3">Map</a>
+                                    <a class="nav-link" href="#0" data-no="3">Statistics</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#0" data-no="4">The Team</a>
@@ -96,7 +96,7 @@ http://www.tooplate.com/view/2086-multi-color
                                         <div class="img-block-body">
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/bwbriandtooth.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/bwbriandtooth.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Dragons <span>Tooth</span></h2>
                                                         <p class="tm-figure-description">It's a big ol' rock.</p>
@@ -106,31 +106,31 @@ http://www.tooplate.com/view/2086-multi-color
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/mcafeeknob.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/mcafeeknob.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">McAfee <span>Knob</span></h2>
                                                         <p class="tm-figure-description">I'm in danger.</p>
-                                                        <a href="img/mcafeeknob.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/mcafeeknob.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/tinkerscliff.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/tinkerscliff.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Tinkers <span>Cliff</span></h2>
                                                         <p class="tm-figure-description">Took my drone out for a spin.</p>
-                                                        <a href="img/tinkerscliff.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/tinkerscliff.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/kefferoak.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/kefferoak.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Keffer <span>Oak</span></h2>
                                                         <p class="tm-figure-description">I love this tree.</p>
-                                                        <a href="img/kefferoak.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/kefferoak.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
@@ -143,27 +143,27 @@ http://www.tooplate.com/view/2086-multi-color
                                         <div class="img-block-body">
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/mount-katahdin.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/mount-katahdin.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Mount <span>Katahdin</span></h2>
                                                         <p class="tm-figure-description">THE mountain range.</p>
-                                                        <a href="img/mount-katahdin.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/mount-katahdin.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/baldpate.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/baldpate.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Baldpate</h2>
                                                         <p class="tm-figure-description">Good ol' days.</p>
-                                                        <a href="img/baldpate.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/baldpate.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/rainbow-lake.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/rainbow-lake.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Rainbow <span>Lake</span></h2>
                                                         <p class="tm-figure-description">The big Kahoona.</p>
@@ -173,11 +173,11 @@ http://www.tooplate.com/view/2086-multi-color
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/bigelow-mountains.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/bigelow-mountains.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Bigelow <span>Mountains</span></h2>
                                                         <p class="tm-figure-description">I came here for the view!</p>
-                                                        <a href="img/bigelow-mountains.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/bigelow-mountains.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
@@ -190,41 +190,41 @@ http://www.tooplate.com/view/2086-multi-color
                                         <div class="img-block-body">
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/tm-img-09-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/tm-img-09-tn.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Image <span>Nine</span></h2>
                                                         <p class="tm-figure-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                                        <a href="img/tm-img-09.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/tm-img-09.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/tm-img-10-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/tm-img-10-tn.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Image <span>Ten</span></h2>
                                                         <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
-                                                        <a href="img/tm-img-10.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/tm-img-10.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/tm-img-11-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/tm-img-11-tn.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Image <span>Eleven</span></h2>
                                                         <p class="tm-figure-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                                        <a href="img/tm-img-11.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/tm-img-11.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/tm-img-12-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/tm-img-12-tn.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Image <span>Twelve</span></h2>
                                                         <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
-                                                        <a href="img/tm-img-12.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/tm-img-12.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
@@ -237,41 +237,41 @@ http://www.tooplate.com/view/2086-multi-color
                                         <div class="img-block-body">
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/tm-img-13-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/tm-img-13-tn.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Image <span>Thirteen</span></h2>
                                                         <p class="tm-figure-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                                        <a href="img/tm-img-13.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/tm-img-13.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/tm-img-14-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/tm-img-14-tn.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Image <span>Fourteen</span></h2>
                                                         <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
-                                                        <a href="img/tm-img-14.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/tm-img-14.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/tm-img-15-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/tm-img-15-tn.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Image <span>Fifteen</span></h2>
                                                         <p class="tm-figure-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                                        <a href="img/tm-img-15.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/tm-img-15.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
-                                                    <img src="img/tm-img-16-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                                    <img src="<?= BASE_URL ?>/public/img/tm-img-16-tn.jpg" alt="Image" class="img-fluid tm-img">
                                                     <figcaption>
                                                         <h2 class="tm-figure-title">Image <span>Sixteen</span></h2>
                                                         <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
-                                                        <a href="img/tm-img-16.jpg">View more</a>
+                                                        <a href="<?= BASE_URL ?>/public/img/tm-img-16.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
                                             </div>
@@ -309,121 +309,121 @@ http://www.tooplate.com/view/2086-multi-color
 
                                     <div class="grid-item firstPic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-12-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-12-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Sparrow</h2>
                                                 <p class="tm-figure-description">Saw this sparrow outside the hiking trail!</p>
-                                                <a href="img/tm-img-12.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-12.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
                                     <div class="grid-item secondPic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-11-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-11-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Moss</h2>
                                                 <p class="tm-figure-description">Can't believe moss would grow here!</p>
-                                                <a href="img/tm-img-11.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-11.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
                                     <div class="grid-item thirdPic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-10-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-10-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Leaves</h2>
                                                 <p class="tm-figure-description">Can't believe the leaves are aleady changing colors</p>
-                                                <a href="img/tm-img-10.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-10.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
                                     <div class="grid-item fourthPic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-09-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-09-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Surfing</h2>
                                                 <p class="tm-figure-description">I wish I could surf suring this hike</p>
-                                                <a href="img/tm-img-09.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-09.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
                                     <div class="grid-item fifthPic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-08-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-08-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Jelly Fish</h2>
                                                 <p class="tm-figure-description">Ow, I feel like I got stung by a jelly fish near this bush</p>
-                                                <a href="img/tm-img-08.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-08.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
                                     <div class="grid-item sixthPic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-07-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-07-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Fox</h2>
                                                 <p class="tm-figure-description">I thought I saw a fox nearby</p>
-                                                <a href="img/tm-img-07.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-07.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
                                     <div class="grid-item seventhPic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-06-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-06-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">View</h2>
                                                 <p class="tm-figure-description">This view is gorgeous!</p>
-                                                <a href="img/tm-img-06.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-06.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
                                     <div class="grid-item eighthPic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-05-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-05-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Flower</h2>
                                                 <p class="tm-figure-description">These flowers have beautiful white leaves</p>
-                                                <a href="img/tm-img-05.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-05.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
                                     <div class="grid-item ninthPic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-04-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-04-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Rest</h2>
                                                 <p class="tm-figure-description">This rest spot looks very cozy</p>
-                                                <a href="img/tm-img-04.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-04.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
                                     <div class="grid-item tenthPic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-03-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-03-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Dog</h2>
                                                 <p class="tm-figure-description">My dog is having a blast during this hike!</p>
-                                                <a href="img/tm-img-03.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-03.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
                                     <div class="grid-item eleventhPic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-02-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-02-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Sunset</h2>
                                                 <p class="tm-figure-description">The sunset over this cliff is amazing!</p>
-                                                <a href="img/tm-img-02.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-02.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
                                     <div class="grid-item twelvePic">
                                         <figure class="effect-bubba">
-                                            <img src="img/tm-img-01-tn.jpg" alt="Image" class="img-fluid tm-img">
+                                            <img src="<?= BASE_URL ?>/public/img/tm-img-01-tn.jpg" alt="Image" class="img-fluid tm-img">
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Drink</h2>
                                                 <p class="tm-figure-description">I wish I had a cold drink at the top of this view!</p>
-                                                <a href="img/tm-img-01.jpg">View more</a>
+                                                <a href="<?= BASE_URL ?>/public/img/tm-img-01.jpg">View more</a>
                                             </figcaption>
                                         </figure>
                                     </div>
