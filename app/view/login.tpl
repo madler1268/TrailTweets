@@ -16,15 +16,15 @@ http://www.tooplate.com/view/2086-multi-color
     <!-- load stylesheets -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">
     <!-- Google web font "Open Sans" -->
-    <link rel="stylesheet" href="font-awesome-4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/font-awesome-4.5.0/css/font-awesome.min.css">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/bootstrap.min.css">
     <!-- Bootstrap style -->
-    <link rel="stylesheet" href="css/hero-slider-style.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/hero-slider-style.css">
     <!-- Hero slider style (https://codyhouse.co/gem/hero-slider/) -->
-    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/magnific-popup.css">
     <!-- Magnific popup style (http://dimsemenov.com/plugins/magnific-popup/) -->
-    <link rel="stylesheet" href="css/tooplate-style.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/tooplate-style.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -134,7 +134,7 @@ http://www.tooplate.com/view/2086-multi-color
                     <div class="cd-full-width">
                         <div class="container-fluid js-tm-page-content" data-page-no="1" data-page-type="gallery">
                           <div>
-                              <img src="./img/apptrail.JPG" alt="Italian Trulli" style="display: block; margin-left: auto; margin-right: auto; width: 25%; height: 50%"></img>
+                              <img src="<?= BASE_URL ?>/public/img/apptrail.JPG" alt="Italian Trulli" style="display: block; margin-left: auto; margin-right: auto; width: 25%; height: 50%"></img>
                               <br>
                               </br>
                               <h1 style="text-align:center;">
@@ -155,7 +155,7 @@ http://www.tooplate.com/view/2086-multi-color
                     <div class="cd-full-width">
                         <div class="container-fluid js-tm-page-content" data-page-no="2" data-page-type="gallery">
                           <h2 style="text-align:center;">Login Form</h2>
-                            <form action="./index.html" class="inline">
+                            <form action="<?= BASE_URL ?>/home" class="inline">
 
                               <div class="container">
                                 <label for="uname"><b>Username</b></label>
@@ -179,11 +179,11 @@ http://www.tooplate.com/view/2086-multi-color
                     </div>
                 </li>
                 <!-- load JS files -->
-                <script src="js/jquery-1.11.3.min.js"></script>         <!-- jQuery (https://jquery.com/download/) -->
+                <script src="<?= BASE_URL ?>/public/js/jquery-1.11.3.min.js"></script>         <!-- jQuery (https://jquery.com/download/) -->
                 <script src="https://www.atlasestateagents.co.uk/javascript/tether.min.js"></script> <!-- Tether for Bootstrap (http://stackoverflow.com/questions/34567939/how-to-fix-the-error-error-bootstrap-tooltips-require-tether-http-github-h) -->
-                <script src="js/bootstrap.min.js"></script>             <!-- Bootstrap js (v4-alpha.getbootstrap.com/) -->
-                <script src="js/hero-slider-main.js"></script>          <!-- Hero slider (https://codyhouse.co/gem/hero-slider/) -->
-                <script src="js/jquery.magnific-popup.min.js"></script> <!-- Magnific popup (http://dimsemenov.com/plugins/magnific-popup/) -->
+                <script src="<?= BASE_URL ?>/public/js/bootstrap.min.js"></script>             <!-- Bootstrap js (v4-alpha.getbootstrap.com/) -->
+                <script src="<?= BASE_URL ?>/public/js/hero-slider-main.js"></script>          <!-- Hero slider (https://codyhouse.co/gem/hero-slider/) -->
+                <script src="<?= BASE_URL ?>/public/js/jquery.magnific-popup.min.js"></script> <!-- Magnific popup (http://dimsemenov.com/plugins/magnific-popup/) -->
 
                 <script>
 
