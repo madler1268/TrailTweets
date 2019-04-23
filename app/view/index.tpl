@@ -103,6 +103,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="./photoview_one.html">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 349 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 129 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -113,6 +115,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/mcafeeknob.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 249 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 329 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -123,6 +127,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/tinkerscliff.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 673 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 147 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -133,6 +139,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/kefferoak.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 234 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 931 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -150,6 +158,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/mount-katahdin.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 742 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 853 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -160,6 +170,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/baldpate.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 339 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 179 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -170,6 +182,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="./photoview_two.html">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 342 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 192 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -180,6 +194,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/bigelow-mountains.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 943 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 921 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -197,6 +213,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/tm-img-09.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 753 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 321 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -207,6 +225,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/tm-img-10.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 452 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 653 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -217,6 +237,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/tm-img-11.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 534 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 973</p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -227,6 +249,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/tm-img-12.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 874 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 432 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -244,6 +268,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/tm-img-13.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 329 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -254,6 +280,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/tm-img-14.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 342 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -264,6 +292,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/tm-img-15.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 424 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -274,6 +304,8 @@ http://www.tooplate.com/view/2086-multi-color
                                                         <a href="<?= BASE_URL ?>/public/img/tm-img-16.jpg">View more</a>
                                                     </figcaption>
                                                 </figure>
+                                                <p>Retweets: 543 </p>
+                                                <p style="position: relative; left: 90px; bottom: 38px; width: 110px;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -314,6 +346,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Sparrow</h2>
                                                 <p class="tm-figure-description">Saw this sparrow outside the hiking trail!</p>
+                                                <p class="tm-figure-description">Retweets: 329</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 753</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-12.jpg">View more</a>
                                             </figcaption>
                                         </figure>
@@ -324,6 +358,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Moss</h2>
                                                 <p class="tm-figure-description">Can't believe moss would grow here!</p>
+                                                <p class="tm-figure-description">Retweets: 743</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 431</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-11.jpg">View more</a>
                                             </figcaption>
                                         </figure>
@@ -334,6 +370,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Leaves</h2>
                                                 <p class="tm-figure-description">Can't believe the leaves are aleady changing colors</p>
+                                                <p class="tm-figure-description">Retweets: 763</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 642</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-10.jpg">View more</a>
                                             </figcaption>
                                         </figure>
@@ -344,6 +382,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Surfing</h2>
                                                 <p class="tm-figure-description">I wish I could surf suring this hike</p>
+                                                <p class="tm-figure-description">Retweets: 753</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 624</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-09.jpg">View more</a>
                                             </figcaption>
                                         </figure>
@@ -354,6 +394,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Jelly Fish</h2>
                                                 <p class="tm-figure-description">Ow, I feel like I got stung by a jelly fish near this bush</p>
+                                                <p class="tm-figure-description">Retweets: 642</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 763</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-08.jpg">View more</a>
                                             </figcaption>
                                         </figure>
@@ -364,6 +406,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Fox</h2>
                                                 <p class="tm-figure-description">I thought I saw a fox nearby</p>
+                                                <p class="tm-figure-description">Retweets: 421</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 219</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-07.jpg">View more</a>
                                             </figcaption>
                                         </figure>
@@ -374,6 +418,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">View</h2>
                                                 <p class="tm-figure-description">This view is gorgeous!</p>
+                                                <p class="tm-figure-description">Retweets: 431</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 429</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-06.jpg">View more</a>
                                             </figcaption>
                                         </figure>
@@ -384,6 +430,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Flower</h2>
                                                 <p class="tm-figure-description">These flowers have beautiful white leaves</p>
+                                                <p class="tm-figure-description">Retweets: 419</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 759</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-05.jpg">View more</a>
                                             </figcaption>
                                         </figure>
@@ -394,6 +442,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Rest</h2>
                                                 <p class="tm-figure-description">This rest spot looks very cozy</p>
+                                                <p class="tm-figure-description">Retweets: 421</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 653</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-04.jpg">View more</a>
                                             </figcaption>
                                         </figure>
@@ -404,6 +454,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Dog</h2>
                                                 <p class="tm-figure-description">My dog is having a blast during this hike!</p>
+                                                <p class="tm-figure-description">Retweets: 321</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 735</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-03.jpg">View more</a>
                                             </figcaption>
                                         </figure>
@@ -414,6 +466,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Sunset</h2>
                                                 <p class="tm-figure-description">The sunset over this cliff is amazing!</p>
+                                                <p class="tm-figure-description">Retweets: 532</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 529</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-02.jpg">View more</a>
                                             </figcaption>
                                         </figure>
@@ -424,6 +478,8 @@ http://www.tooplate.com/view/2086-multi-color
                                             <figcaption>
                                                 <h2 class="tm-figure-title">Drink</h2>
                                                 <p class="tm-figure-description">I wish I had a cold drink at the top of this view!</p>
+                                                <p class="tm-figure-description">Retweets: 981</p>
+                                                <p class="tm-figure-description" style="position: relative; bottom: 30px;">Favorites: 432</p>
                                                 <a href="<?= BASE_URL ?>/public/img/tm-img-01.jpg">View more</a>
                                             </figcaption>
                                         </figure>
