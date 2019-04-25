@@ -16,15 +16,15 @@ http://www.tooplate.com/view/2086-multi-color
     <!-- load stylesheets -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">
     <!-- Google web font "Open Sans" -->
-    <link rel="stylesheet" href="font-awesome-4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/font-awesome-4.5.0/css/font-awesome.min.css">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/bootstrap.min.css">
     <!-- Bootstrap style -->
-    <link rel="stylesheet" href="css/hero-slider-style.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/hero-slider-style.css">
     <!-- Hero slider style (https://codyhouse.co/gem/hero-slider/) -->
-    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/magnific-popup.css">
     <!-- Magnific popup style (http://dimsemenov.com/plugins/magnific-popup/) -->
-    <link rel="stylesheet" href="css/tooplate-style.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/tooplate-style.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -136,7 +136,7 @@ http://www.tooplate.com/view/2086-multi-color
                             <p class="comment"><b>Date</b>:10/21/17</p>
                           </div>
                           <div class="center_details">
-                              <img src="./img/bwbriandtooth.jpg" alt="Italian Trulli" style="display: block; margin-left: auto; margin-right: auto;"></img>
+                              <img src="<?= BASE_URL ?>/public/img/bwbriandtooth.jpg" alt="Italian Trulli" style="display: block; margin-left: auto; margin-right: auto;"></img>
                               <br>
                               </br>
                               <h1 style="text-align:center;">

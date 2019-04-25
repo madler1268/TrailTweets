@@ -31,6 +31,18 @@ class SiteController
             case 'home':
     				    $this->home();
                 break;
+            case 'search':
+        				$this->search();
+                break;
+            case 'stats':
+                $this->stats();
+                break;
+            case 'team':
+                $this->team();
+                break;
+            case 'contact':
+                $this->contact();
+                break;
             case 'logout':
                 $this->logout();
                 break;
@@ -110,10 +122,19 @@ class SiteController
 
     public function home()
     {
-        $pageTitle = 'Home - main';
+        $pageTitle = 'Home - TrailTweets';
         // include_once SYSTEM_PATH . '/view/header.tpl';
         include_once SYSTEM_PATH . '/view/index.tpl';
         // include_once SYSTEM_PATH . '/view/footer.tpl';
     }
+
+    public function search()
+    {
+        $pageTitle = 'Search - TrailTweets';
+        // include_once SYSTEM_PATH . '/view/header.tpl';
+        include_once SYSTEM_PATH . '/view/search.tpl';
+        // include_once SYSTEM_PATH . '/view/footer.tpl';
+    }
+
 
 }
