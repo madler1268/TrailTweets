@@ -10,6 +10,9 @@ RewriteEngine on
 # Trail tweets navigation
 RewriteRule ^$ app/controller/siteController.php?action=before_signin [QSA,L]
 RewriteRule ^home/?$ app/controller/siteController.php?action=home [QSA,L]
+RewriteRule ^search/?$ app/controller/siteController.php?action=search [QSA,L]
+RewriteRule ^viewtweet/(\d+)/?$ app/controller/siteController.php?action=viewtweet&TweetID=$1 [QSA,L]
+
 
 
 # Site

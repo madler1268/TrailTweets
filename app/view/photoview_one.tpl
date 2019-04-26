@@ -5,33 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Tweet Trails</title>
-<!--
+    <title>Trail Tweets</title>
 
-Template 2086 Multi Color
 
-http://www.tooplate.com/view/2086-multi-color
-
--->
     <!-- load stylesheets -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">
-    <!-- Google web font "Open Sans" -->
-    <link rel="stylesheet" href="font-awesome-4.5.0/css/font-awesome.min.css">
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <!-- Bootstrap style -->
-    <link rel="stylesheet" href="css/hero-slider-style.css">
-    <!-- Hero slider style (https://codyhouse.co/gem/hero-slider/) -->
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <!-- Magnific popup style (http://dimsemenov.com/plugins/magnific-popup/) -->
-    <link rel="stylesheet" href="css/tooplate-style.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/font-awesome-4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/hero-slider-style.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/magnific-popup.css">
+    <link rel="stylesheet" href="<?= BASE_URL ?>/public/css/tooplate-style.css">
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-          <![endif]-->
+
           <style>
               .button {
                 background-color: #4CAF50; /* Green */
@@ -96,7 +81,7 @@ http://www.tooplate.com/view/2086-multi-color
                 <nav class="navbar">
                     <div class="tm-navbar-bg">
 
-                        <a class="navbar-brand text-uppercase" href="./index.html"><i class="fa fa-gears tm-brand-icon"></i>Tweet Trails</a>
+                        <a class="navbar-brand text-uppercase" href="<?= BASE_URL ?>/home/"><i class="fa fa-gears tm-brand-icon"></i>Trail Tweets</a>
 
                         <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#tmNavbar">
                             &#9776;
@@ -107,8 +92,8 @@ http://www.tooplate.com/view/2086-multi-color
                                     <a class="nav-link" href="#0" data-no="1">Photo Details<span class="sr-only">(current)</span></a>
                                 </li>
                                 <li class="nav-item">
-                                  <form action="./index.html" class="inline" id="backform">
-                                    <a class="nav-link" href="./index.html" >
+                                  <form action="<?= BASE_URL ?>/home/" class="inline" id="backform">
+                                    <a class="nav-link" href="<?= BASE_URL ?>/home/" >
                                       <button type="submit" form="backform" class="button button2" value="Submit">Back</button>
                                      </a>
                                   </form>
@@ -130,31 +115,25 @@ http://www.tooplate.com/view/2086-multi-color
                             <h1 >
                               Photo Details
                             </h1>
-                            <p class="comment"><b>Original Poster</b>: twitter.com/u/hikeallday110</p>
-                            <p class="comment"><b>Retweets</b>: 2,330</p>
-                            <p class="comment"><b>Likes</b>: 4,193</p>
-                            <p class="comment"><b>Date</b>:10/21/17</p>
+                            <p class="comment"><b>Original Poster</b>: <?= $tweet->account_name?></p>
+                            <p class="comment"><b>Retweets</b>: <?= $tweet->retweets?></p>
+                            <p class="comment"><b>Likes</b>: <?= $tweet->likes?></p>
+                            <p class="comment"><b>Date</b>: <?= $tweet->date?></p>
+                            <p class="comment"><b>Location</b>: <?= $tweet->location?></p>
                           </div>
                           <div class="center_details">
-                              <img src="./img/bwbriandtooth.jpg" alt="Italian Trulli" style="display: block; margin-left: auto; margin-right: auto;"></img>
+                              <img src="<?= BASE_URL ?>/public/img/<?= $tweet->image_link?>" alt="Italian Trulli" style="display: block; margin-left: auto; margin-right: auto;"></img>
                               <br>
                               </br>
                               <h1 style="text-align:center;">
-                                Dragons Tooth
+                                <?= $tweet->tweet_text?>
                                 </h1>
                                 <br>
                                 </br>
 
                           </div>
                           <div class="right_details">
-                            <h1 >
-                              Photo Comments
-                            </h1>
-                            <p class="comment"><b>hiker4911</b>: This place was so much fun to hike! I went all the way to the top.</p>
-                            <p class="comment"><b>famoustrail9xX</b>: I'm trying to meet up with a freidn here, any suggestions?</p>
-                            <p class="comment"><b>Wildlife_Fanatic_447</b>: Im coming here next year with all my friends! I hope its not too cold.</p>
-                            <p class="comment"><b>N4tiveHiker991</b>: @famoustrail9xX You should be able to get there if you follow i-81 north then take a left.</p>
-                          </div>
+                            </div>
                         </div>
                     </div>
                 </li>

@@ -143,7 +143,7 @@ http://www.tooplate.com/view/2086-multi-color
                                 <br>
                                 </br>
                               <p style="text-align:center; padding-left: 300px; padding-right: 300px;">
-                                This website was created to allow users to share photos and tweets from the Appalachian Trail. You can find places to visit what you need to pack and how to prepare for the hike itself!
+                                This website was created to allow users to share photos and tweets from the Appalachian Trail. You can find places to visit, things you may need to pack, and how to prepare for the hike itself!
                                 </p>
                           </div>
                         </div>
