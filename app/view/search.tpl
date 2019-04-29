@@ -32,18 +32,21 @@ http://www.tooplate.com/view/2086-multi-color
 </head>
 
 <body>
-
-
-        <div class="tm-navbar-bg2" >
-            <a class="navbar-brand text-uppercase" style="padding-bottom: 30px;" href="<?= BASE_URL ?>/home/"><i class="fa fa-gears tm-brand-icon"></i><h1 style="color: white; padding-left: 150px; ">Trail Tweets</h1></a>
-            <div class="collapse navbar-toggleable-md text-xs-center text-uppercase tm-navbar" id="tmNavbar">
-                <ul class="nav navbar-nav">
-                    <li class="nav-item active selected">
-                        <a class="nav-link" href="<?= BASE_URL ?>/home/" >Back<span class="sr-only">(current)</span></a>
-                    </li>
-                </ul>
+        <nav class="navbar" style="background-color: rgba(233, 147, 147, 0.7)">
+            <div class="tm-navbar-bg">
+                <a class="navbar-brand text-uppercase" href="#" style="font-size: 3.5rem; color: black;font-weight:400"><i class="fa fa-gears tm-brand-icon"></i>Trail Tweets</a>
+                <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#tmNavbar">
+                    &#9776;
+                </button>
+                <div class="collapse navbar-toggleable-md text-xs-center text-uppercase tm-navbar" id="tmNavbar">
+                    <ul class="nav navbar-nav">
+                        <li class="nav-item active selected">
+                            <a class="nav-link" href="<?= BASE_URL ?>/home/" style="font-weight: bold">Back<span class="sr-only">(current)</span></a>
+                        </li>
+                    </ul>
+                </div>
             </div>
-        </div>
+        </nav>
 
         <div class="found-container">
           <div class="img-block">
@@ -61,26 +64,14 @@ http://www.tooplate.com/view/2086-multi-color
 
                           </figcaption>
                       </figure>
-                      <p style="color: rgb(0, 0, 0); font-weight: bold;">Retweets: <?= $myTweet->retweets?> </p>
-                      <p style="color: rgb(0, 0, 0); font-weight: bold; position: relative; margin-left: 190px; bottom: 37px; width: 150px;">Favorites: <?= $myTweet->likes?> </p>
+                      <p style="color: black; font-weight: bold;">Retweets: <?= $myTweet->retweets?> </p>
+                      <p style="color: black; font-weight: bold; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: <?= $myTweet->likes?> </p>
                   </div>
 
               <?php endforeach; ?>
               </div>
           </div>
         </div>
-
-        <footer class="tm-footer">
-
-          <div class="tm-social-icons-container text-xs-center">
-            <a href="#" class="tm-social-link"><i class="fa fa-facebook"></i></a>
-            <a href="#" class="tm-social-link"><i class="fa fa-google-plus"></i></a>
-            <a href="#" class="tm-social-link"><i class="fa fa-twitter"></i></a>
-            <a href="#" class="tm-social-link"><i class="fa fa-linkedin"></i></a>
-          </div>
-
-
-        </footer>
 
 <!-- Preloader, https://ihatetomatoes.net/create-custom-preloading-screen/ -->
     <div id="loader-wrapper">

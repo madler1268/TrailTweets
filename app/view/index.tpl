@@ -75,10 +75,10 @@ http://www.tooplate.com/view/2086-multi-color
                             <div class="tm-img-gallery-container">
                                 <div class="tm-img-gallery gallery-one">
                                 <!-- Gallery One pop up connected with JS code below -->
+                                    <br/>
                                     <div class="tm-img-gallery-info-container">
                                         <h2 class="tm-text-title tm-gallery-title tm-white"><span class="tm-white">Home Image Gallery</span></h2>
-                                        <p class="tm-text">Here you can look up photos seperated by state
-                                        </p>
+                                        <h1 class="tm-text"><span class="tm-white">Look up photos seperated by state</span></h1>
                                     </div>
                                     <div class="img-block">
                                         <div class="img-block-header">
@@ -94,7 +94,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 349 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 129 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 129 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -104,7 +104,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 249 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 329 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 329 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -114,7 +114,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 673 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 147 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 147 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -124,7 +124,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 234 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 931 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 931 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -142,7 +142,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 742 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 853 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 853 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -153,7 +153,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 339 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 179 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 179 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -164,7 +164,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 192 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 192 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -175,7 +175,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 943 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 921 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 921 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -193,7 +193,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 753 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 321 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 321 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -204,7 +204,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 452 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 653 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 653 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -215,7 +215,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 534 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 973</p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 973</p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -226,7 +226,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 874 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 432 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 432 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -244,7 +244,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 329 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 529 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -255,7 +255,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 654 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -266,7 +266,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 424 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 543 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -277,7 +277,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 543 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 643 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -295,7 +295,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 329 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 529 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -306,7 +306,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 654 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -317,7 +317,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 424 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 543 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -328,7 +328,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 543 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 643 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -346,7 +346,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 329 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 529 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -357,7 +357,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 654 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -368,7 +368,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 424 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 543 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -379,7 +379,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 543 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 643 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -397,7 +397,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 329 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 529 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -408,7 +408,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 654 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -419,7 +419,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 424 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 543 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -430,7 +430,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 543 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 643 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -448,7 +448,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 329 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 529 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -459,7 +459,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 654 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -470,7 +470,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 424 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 543 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -481,7 +481,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 543 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 643 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -499,7 +499,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 329 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 529 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -510,7 +510,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 654 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -521,7 +521,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 424 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 543 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -532,7 +532,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 543 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 643 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -550,7 +550,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 329 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 529 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -561,7 +561,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 654 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -572,7 +572,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 424 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 543 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -583,7 +583,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 543 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 643 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -600,7 +600,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 329 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 529 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -611,7 +611,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 654 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -622,7 +622,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 424 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 543 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -633,7 +633,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 543 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 643 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -651,7 +651,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 329 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 529 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -662,7 +662,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 654 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -673,7 +673,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 424 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 543 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -684,7 +684,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 543 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 643 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -702,7 +702,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 329 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 529 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -713,7 +713,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 654 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -724,7 +724,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 424 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 543 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -735,7 +735,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 543 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 643 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -753,7 +753,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 329 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 529 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 529 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -764,7 +764,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 342 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 654 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 654 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -775,7 +775,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 424 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 543 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 543 </p>
                                             </div>
                                             <div class="grid-item">
                                                 <figure class="effect-bubba">
@@ -786,7 +786,7 @@ http://www.tooplate.com/view/2086-multi-color
                                                     </figcaption>
                                                 </figure>
                                                 <p style="color: blue;">Retweets: 543 </p>
-                                                <p style="color: blue; position: relative; margin-left: 190px; margin-top: 21px; bottom: 44px; width: 150px;">Favorites: 643 </p>
+                                                <p style="color: blue; text-align: right; position: relative; margin-top: 21px; bottom: 44px; width:100%;">Favorites: 643 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -844,17 +844,19 @@ http://www.tooplate.com/view/2086-multi-color
                 <!-- Page 3 Gallery Three -->
                 <li>
                     <div class="cd-full-width">
-                      <div class="stats-img-container">
-                        <br/>
-                        <h1> Statistics based on twitter data received </h1>
-                        <br/>
-                        <img src="<?= BASE_URL ?>/public/img/statesgraph.JPG"/ style="">
-                        <img src="<?= BASE_URL ?>/public/img/keywordgraph.JPG"/ style="">
-                        <img src="<?= BASE_URL ?>/public/img/tweettopicgraph.JPG"/ style="">
-                      </div>
                         <div class="container-fluid js-tm-page-content" data-page-no="3">
-
-
+                            <div class="stats-img-container">
+                                <br/>
+                                <h1 style="text-align:center"> Statistics based on twitter data received </h1>
+                                <br/>
+                                <div class="graph-wrapper" style="display:block;">
+                                    <img src="<?= BASE_URL ?>/public/img/statesgraph.JPG"/ style="">
+                                    <br/>
+                                    <img src="<?= BASE_URL ?>/public/img/keywordgraph.JPG"/ style="">
+                                    <br/>
+                                    <img src="<?= BASE_URL ?>/public/img/tweettopicgraph.JPG"/ style="">
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </li>
@@ -914,19 +916,6 @@ http://www.tooplate.com/view/2086-multi-color
 
 
             </ul> <!-- .cd-hero-slider -->
-
-            <footer class="tm-footer">
-
-                <div class="tm-social-icons-container text-xs-center">
-                    <a href="#" class="tm-social-link"><i class="fa fa-facebook"></i></a>
-                    <a href="#" class="tm-social-link"><i class="fa fa-google-plus"></i></a>
-                    <a href="#" class="tm-social-link"><i class="fa fa-twitter"></i></a>
-                    <a href="#" class="tm-social-link"><i class="fa fa-linkedin"></i></a>
-                </div>
-
-                <p class="tm-copyright-text">Copyright &copy; 2019 Trail Tweets</p>
-
-            </footer>
 
         </div> <!-- .cd-hero -->
 
