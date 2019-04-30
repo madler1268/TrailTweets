@@ -51,7 +51,7 @@ INSERT INTO `tweets` (`TweetID`, `account_name`, `username`, `tweet_text`, `imag
 (3, '@tony551', 'Best Hiker!', 'This place is amazing', 'apptrail.JPG', 55, 23, 'April 15, 2017', 'Virginia', 'weather'),
 (4, '@Hiker994', 'Hike all Day', 'Georgias views are the best there are', 'georgia2.jpg', 200, 100, 'April 17, 2017', 'Virginia', 'packing'),
 (5, '@tony551', 'Best Hiker!', 'This place is amazing', 'apptrail.JPG', 55, 23, 'April 15, 2017', 'Virginia', 'firstaid'),
-(6, '@Hiker994', 'Hike all Day', 'Georgias views are the best there are', 'georgia2.jpg', 200, 100, 'April 17, 2017', 'West Virginia', 'weather'),
+(6, '@Hiker994', 'Hike all Day', 'Georgias views are the best there are', 'georgia2.jpg', 200, 100, 'April 17, 2017', 'Georgia', 'weather'),
 (7, '@tony551', 'Best Hiker!', 'This place is amazing', 'apptrail.JPG', 55, 23, 'April 15, 2017', 'Virginia', 'weather'),
 (8, '@Hiker994', 'Hike all Day', 'Georgias views are the best there are', 'georgia2.jpg', 200, 100, 'April 17, 2017', 'New York', 'packing'),
 (9, '@tony551', 'Best Hiker!', 'This place is amazing', 'georgia3.jpg', 55, 23, 'April 15, 2017', 'Virginia', 'wildlife'),
@@ -59,7 +59,9 @@ INSERT INTO `tweets` (`TweetID`, `account_name`, `username`, `tweet_text`, `imag
 (11, '@tony551', 'Best Hiker!', 'This place is amazing', 'georgia3.jpg', 55, 23, 'April 15, 2017', 'Virginia', 'wildlife'),
 (12, '@Appalachiantrail', 'App Trail.', 'Georgias views are the best there are', 'tinkerscliff.JPG', 25, 673, 'April 17, 2017', 'West Virginia', 'wildlife'),
 (13, '@tony551', 'Best Hiker!', 'This place is amazing', 'mcafeeknob.JPG', 123, 444, 'April 15, 2017', 'Virginia', 'planning'),
-(14, '@VictorHayes', 'Victor', 'Hike of the week!', 'bigelow-mountains.jpg', 10, 2, 'April 17, 2017', 'New Hampshire', 'family');
+(14, '@VictorHayes', 'Victor', 'Hike of the week!', 'bigelow-mountains.jpg', 10, 2, 'April 17, 2017', 'New Hampshire', 'family'),
+(15, '@TonyMaloney', 'Owl', 'Found a great buddy', 'tm-img-14-tn.jpg', 10, 2, 'April 23, 2017', 'Vermont', 'wildlife'),
+(16, '@HarryTerry', 'Mystery Bird', 'Anyone know what bord this is?', 'tm-img-12-tn.jpg', 200, 100, 'April 7, 2017', 'Georgia', 'wildlife');
 
 -- --------------------------------------------------------
 
